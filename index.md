@@ -4,12 +4,12 @@ title: Student Blog
 ---
 
 
-## Build you Home Page here 
-This is about your journey. Start now!!!
+## Hannah's Blog
+Hello, my name is Hannah Reyes and this is a little bit about me!
 
-## Overview of Hacks, Study and Tangibles
-Blogging in GitHub pages is a way to learn and code at the same time. 
-
-- Plans, Lists, [Scrum Boards](https://clickup.com/blog/scrum-board/) help you to track key events, show progress and record time.  Effort is a big part of your class grade.  Show plans and time spent!
-- [Hacks(Todo)](https://levelup.gitconnected.com/six-ultimate-daily-hacks-for-every-programmer-60f5f10feae) enable you to stay in focus with key requirements of the class.  Each Hack will produce Tangibles.
-- Tangibles or [Tangible Artifacts](https://en.wikipedia.org/wiki/Artifact_(software_development)) are things you accumulate as a learner and coder. 
+## About me:
+This is a collage of some of things that I hold dear and some things that I enjoy:
+- family, friends, food, flowers, beaches, art, baking, and my dog!
+- Right bellow this picture is a picture of other things that I wasn't able to add that I enjoy or things that make me me
+![My favorites](<Screen Shot 2023-08-23 at 11.30.41 PM.png>)
+![About me](IMG_6C6C8D3C028E-1.jpeg)

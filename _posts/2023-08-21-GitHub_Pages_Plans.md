@@ -2,7 +2,7 @@
 toc: true
 comments: false
 layout: post
-title: Sample of Detail Plan
+title: Hannah's Daily Plan Week 1
 description: Example Plan!!! Analyze hacks and plan.
 type: plans
 courses: { compsci: {week: 1} }

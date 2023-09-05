@@ -9,9 +9,41 @@ courses: { compsci: {week: 0} }
 ---
 
 ### Plan for Unit 1 / Week 0
-Planning Targets
-- Monday - Pick pair share partner, Pick crossover pair, Establish team of four.  Spend some time talking and getting to know each other, particularly with Computer Science experience and goals.  You should be matched with someone that has similar experience.
-- Tuesday - Setup Tools on laptop and/or Cloud Computer.
-- 
-- Friday - Review and test as a Pair. Spend 25 minutes at one keyboard then switch for next 25 minutes.
 
+<table class="table">
+    <thead>
+        <tr>
+            <th>Days</th>
+            <th>Plans</th>
+            <th>Problems</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Monday</td>
+            <td>- Introduced to github/made an account for it. Started downloading the essenteials for coding (ex. bundle install, ruby, python, etc.)
+            </td>
+            <td>- bundle install wouldn't work no matter how many times I tried to input the information into the terminal</td>
+        </tr>
+        <tr>
+            <td>Tuesday</td>
+            <td>- I didn't do much this day because we were still downloading thigns that were necessary for our github and vscode accounts</td>
+            <td>- Some of these things were still unable to install in the terminal was not working</td>
+        </tr>
+        <tr>
+            <td>Wednesday</td>
+            <td>- More downloading to make sure that we are able to get our websites up and ready to edit</td>
+            <td>- whenever I pressed make it wouldn't give me a certain link so that I could be able to actually see my website</td>
+        </tr>
+        <tr>
+            <td>Thursday</td>
+            <td>- started working on my website to make it look nice and ready to share with my partner</td>
+            <td>- had a hard time putting images into the website and dragging and dropping certain things</td>
+        </tr>
+        <tr>
+            <td>Friday</td>
+            <td>Fusion Energi</td>
+            <td>2015</td>
+        </tr>
+    </tbody>
+</table>

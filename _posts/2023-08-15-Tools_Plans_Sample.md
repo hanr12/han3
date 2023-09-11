@@ -42,8 +42,8 @@ courses: { compsci: {week: 0} }
         </tr>
         <tr>
             <td>Friday</td>
-            <td>Fusion Energi</td>
-            <td>2015</td>
+            <td>- finished the website with my two images and text to describe the images that explain everything about me</td>
+            <td>- I wasn't use on how to change the theme of my website. I would insert my code from the theme into my code but it still wouldn't work. I wanted to make my website pop more instead of using the basic theme that was grey/black and green.</td>
         </tr>
     </tbody>
 </table>

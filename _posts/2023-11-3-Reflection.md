@@ -25,6 +25,6 @@ Ellie is the main frontend so she's in charge of what it visually looks like. Ka
     - Once tested on postman I made sure that the fetch functions and variables matched up with the frontend
 
 - Reflection:
-I had a hard time at first trying to get the API to work mainly because I wasn't familiar with using APIs for search engines/features. It took me a few hours to get the API to work, but together with Pranavi we were able to figure out the model for the api and the api itself. We also had some issues in the frontend with fetching the data from the backend, but it was fixed later on.
+I had a hard time at first trying to get the API to work mainly because I wasn't familiar with using APIs for search engines/features. It took me a few hours to get the API to work, but together with Pranavi we were able to figure out the model for the api and the api itself. We also had some issues in the frontend with fetching the data from the backend, but it was fixed later on
 
 https://github.com/hanr12/arthubbackend/issues/1

@@ -18,20 +18,40 @@ My feature helps with organizing ones schedule. The schedule is a list that has 
 
 ## College Board Requirements
 <html>
-<body>
-<!--StartFragment-->
-College board | Our Project
--- | --
-Instructions for input from one of the following: the user, a device, an online data stream, a file. | We require JWT tokens and credentials (that can be created in the signup) for a user to login
-Use of at least one list (or other collection type) to represent a collection of data that is stored and used to manage program complexity and help fulfill the users purpose. | We use SQLite tables to store and manage data about users and messages.
-At least one procedure that contributed to the program’s intended purpose where you have defined: the name, return type, one or more parameters. | We have procedures for user authentication and authorization, which take JWT tokens and user credentials as parameters.
-An algorithm that includes sequencing, selection, and iteration that is in the body of the selected procedure. | Our authentication algorithm meets these requirements by including sequencing (checking JWT token and cookies), and selection (redirecting or allowing to update or delete users based on user or admin status).
-Calls to your student-developed procedure. | Our procedures for user related functions, scores, and messages are called throughout the application.
-Instructions for output (tactile, audible, visual, or ) based on input and program functionality. | Login redirects users, games are manipulated by user, messages are typed by user, and all of these have visual responses
-
-<!--EndFragment-->
-</body>
+  <body>
+    <table border="1">
+      <tr>
+        <th>College board</th>
+        <th>Our Project</th>
+      </tr>
+      <tr>
+        <td>Instructions for input from one of the following: the user, a device, an online data stream, a file.</td>
+        <td>We require JWT tokens and credentials (that can be created in the signup) for a user to login</td>
+      </tr>
+      <tr>
+        <td>Use of at least one list (or other collection type) to represent a collection of data that is stored and used to manage program complexity and help fulfill the users purpose.</td>
+        <td>We use SQLite tables to store and manage data about users and messages.</td>
+      </tr>
+      <tr>
+        <td>At least one procedure that contributed to the program’s intended purpose where you have defined: the name, return type, one or more parameters.</td>
+        <td>We have procedures for user authentication and authorization, which take JWT tokens and user credentials as parameters.</td>
+      </tr>
+      <tr>
+        <td>An algorithm that includes sequencing, selection, and iteration that is in the body of the selected procedure.</td>
+        <td>Our authentication algorithm meets these requirements by including sequencing (checking JWT token and cookies), and selection (redirecting or allowing to update or delete users based on user or admin status).</td>
+      </tr>
+      <tr>
+        <td>Calls to your student-developed procedure.</td>
+        <td>Our procedures for user-related functions, scores, and messages are called throughout the application.</td>
+      </tr>
+      <tr>
+        <td>Instructions for output (tactile, audible, visual, or ) based on input and program functionality.</td>
+        <td>Login redirects users, games are manipulated by the user, messages are typed by the user, and all of these have visual responses</td>
+      </tr>
+    </table>
+  </body>
 </html>
+
 
 ## Code
 ![code](<Screenshot 2024-02-27 073700.png>)

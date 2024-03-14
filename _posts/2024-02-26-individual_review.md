@@ -5,6 +5,7 @@ hide: false
 title: CPT Individual Review Blog
 courses: {'compsci': {'week': 17}}
 type: hacks
+comments: true
 ---
 ## Project Overview
 My team and I decided to create a website that focuses on the improvement of mental health for teenagers. We have different features that help with the organization of plans and emotions as well as a few feautures that help with figetting.

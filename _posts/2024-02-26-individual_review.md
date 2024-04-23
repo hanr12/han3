@@ -60,7 +60,6 @@ My feature helps with organizing ones schedule. The schedule is a list that has 
   </body>
 </html>
 
-
 ## Refletion
 Trimester 2 was very difficult for me. While I was in Lopez class I had no clue on what was wrong with my vscode for it to not be able to run ./migrate.sh. I asked Lopez about this issue but it was never resolved until tri 3. Due to this, I was only able to work on the frontend despite my past experiences in Tri 1 with the backend code.
 

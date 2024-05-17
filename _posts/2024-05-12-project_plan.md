@@ -32,3 +32,14 @@ Project Plan: Algorithmic Loops for K-Pop Album Data
 - Sort and filter albums based on user criteria.
 - Implement UI / styling
 - Deploy
+
+### Project Timeline: Algorithmic Loops for K-Pop Album Data
+
+| Date       | Goal                           | Description                                                                          |
+|------------|--------------------------------|--------------------------------------------------------------------------------------|
+| 5/17 - 5/20 | Backend Setup and Data Parsing | Backend team sets up environment and starts developing data parsing algorithms.      |
+| 5/21 - 5/24 | Frontend Development           | Frontend developer designs UI and begins implementing frontend components.           |
+| 5/25 - 5/29 | Integration and Testing        | Full Stack Developers integrate frontend with backend and conduct testing.           |
+| 5/30 - 6/2  | Sorting and Filtering          | Backend team implements sorting and filtering algorithms.                             |
+| 6/3 - 6/6   | User Ratings and Visualization| Full Stack Developers develop user rating system and data visualization components.   |
+| 6/7 - 6/10  | Deployment and Finalization   | Full Stack Developers prepare for deployment, optimize performance, and finalize docs.|

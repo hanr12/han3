@@ -1,6 +1,7 @@
 ---
 toc: False
 layout: post
+comments: true
 hide: false
 title: Final Project Plan
 courses: {'compsci': {'week': 20}}
